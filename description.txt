@@ -1,1 +1,15 @@
 Development Boomber game with AI-Reinforment
+
+git clone "link"
+
+touch <file> // create to file
+
+git add <file>
+
+git status
+
+git commit -m "desciption"
+
+git log
+
+git push
