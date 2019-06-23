@@ -13,3 +13,11 @@ git commit -m "desciption"
 git log
 
 git push
+
+git commit -a "description" == 'git add <file> -> git commit -m "description" ' // with file existed
+
+vim <file> //open and modify
+
+Esc + :wq // save file -> teminal -> :wq save and quit
+
+git diff // View file changed
